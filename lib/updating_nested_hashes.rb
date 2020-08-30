@@ -56,6 +56,6 @@ def add_characters
       :name => "Apothecary"
     }
     ]
-l
+
    epic_tragedy
 end
